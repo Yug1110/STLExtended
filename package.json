@@ -1,0 +1,21 @@
+{
+  "name": "YugSTL",
+  "displayName": "STLXtended",
+  "description": "Provides snippets of daily use",
+  "version": "1.0.0",
+  "publisher": "YugayuGarg",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
